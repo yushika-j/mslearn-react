@@ -2,6 +2,7 @@ import './RecipeTitle.css';
 import React from 'react';
 
 // TODO: Create RecipeTitle component
+
 function RecipeTitle(props) {
     return (
         <section>
